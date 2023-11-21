@@ -1,1 +1,1 @@
-## https://SubhashiniArun.github.io
+## Java SpringBoot-Gradle-JPA-Hibernate-MySQL Project
